@@ -1,0 +1,15 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "learing api building with node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bereket sewnet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^13.1.0"
+  }
+}
